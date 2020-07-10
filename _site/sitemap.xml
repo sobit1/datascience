@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/datascience/python/huhu/</loc>
+<lastmod>2017-02-20T00:00:00+05:45</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/datascience/data/science/perceptron/</loc>
+<lastmod>2018-01-28T00:00:00+05:45</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/datascience/python/hahah/</loc>
+<lastmod>2020-07-10T00:00:00+05:45</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/datascience/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/datascience/categories/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/datascience/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/datascience/tags/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/datascience/year/</loc>
+</url>
+</urlset>
